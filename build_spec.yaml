@@ -1,0 +1,6 @@
+version: 0.1
+component: build
+steps:
+  - type: Command
+    name: Runner diagnostic
+    command: echo "OCI managed runner acquired successfully"
